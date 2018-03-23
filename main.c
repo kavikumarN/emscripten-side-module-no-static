@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 
   if (x)
     {
-      printf("No static string\n");
+      printf("ERROR! No static string\n");
     } else
     {
       printf("Found static string\n");
